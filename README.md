@@ -11,3 +11,4 @@ Examen de curso de Aseguramiento de la Calidad de SOftware en donde se implement
 - Services
 - Logs
 
+Las tareas estan en la rama backend.
